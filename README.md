@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [SADI]
 
 💻 Blockchain Developer | AI Enthusiast | Open Source Contributor  
 
@@ -8,7 +8,7 @@
 - 🔭 Currently working on Web3 automation bots & validator setups  
 - 🌱 Learning advanced Solidity & AI integrations  
 - 🤝 Open to collaborations in blockchain/AI projects  
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me: [your.email@example.com](maiologali250@gmail.com)
 
 ---
 
@@ -28,6 +28,6 @@
 ---
 
 ### 🌍 Connect With Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/sad9923)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/YOURHANDLE)
